@@ -1,0 +1,82 @@
+Sample #1:
+
+Displaying all students:-
+
+first name | last name | score | id
+Khalil       Yousef      89      2017401
+Mohammad     Khalid      50      2017402
+Suhib        Mohd        85      2017403
+John         Jamal       64      2017404
+Hamzeh       Nabeel      83      2017405
+Nadeen       Rafat       60      2017406
+Fadi         Ali         51      2017407
+Ruba         Omar        57      2017408
+Baraa        Hasan       82      2017409
+Ahmad        Tamer       66      2017410
+
+Displaying student with maximum score:-:
+
+first name | last name | score | id
+Khalil       Yousef      89      2017401
+Please enter the student ID: 2017405
+student initials are: H.N and his/her ID is 2017405 and his/her score is 83
+Please enter a valid student grade: B
+first name | last name | score | id
+Khalil       Yousef      89      2017401
+Suhib        Mohd        85      2017403
+Hamzeh       Nabeel      83      2017405
+Baraa        Hasan       82      2017409
+
+Sample #2:
+
+Displaying all students:-
+
+first name | last name | score | id
+Khalil       Yousef      94      2017401
+Mohammad     Khalid      84      2017402
+Suhib        Mohd        67      2017403
+John         Jamal       52      2017404
+Hamzeh       Nabeel      86      2017405
+Nadeen       Rafat       91      2017406
+Fadi         Ali         81      2017407
+Ruba         Omar        95      2017408
+Baraa        Hasan       77      2017409
+Ahmad        Tamer       62      2017410
+
+Displaying student with maximum score:-:
+
+first name | last name | score | id
+Ruba         Omar        95      2017408
+Please enter the student ID: 1234567
+Could not find a student with student id 1234567
+Please enter a valid student grade: A
+first name | last name | score | id
+Ruba         Omar        95      2017408
+Khalil       Yousef      94      2017401
+Nadeen       Rafat       91      2017406
+
+Sample #3:
+
+Displaying all students:-
+
+first name | last name | score | id
+Khalil       Yousef      74      2017401
+Mohammad     Khalid      90      2017402
+Suhib        Mohd        60      2017403
+John         Jamal       64      2017404
+Hamzeh       Nabeel      83      2017405
+Nadeen       Rafat       95      2017406
+Fadi         Ali         52      2017407
+Ruba         Omar        91      2017408
+Baraa        Hasan       62      2017409
+Ahmad        Tamer       82      2017410
+
+Displaying student with maximum score:-:
+
+first name | last name | score | id
+Nadeen       Rafat       95      2017406
+Please enter the student ID: 2017410
+student initials are: A.T and his/her ID is 2017410 and his/her score is 82
+Please enter a valid student grade: F
+first name | last name | score | id
+Fadi         Ali         52      2017407
